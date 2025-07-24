@@ -1,11 +1,11 @@
-## Glory-in-Motion 🐢
+# Glory-in-Motion 
 
 Celebrate the spirit of India with this beautiful **Glory-in-Motion** project built using Python’s `turtle` module.  
-It includes waving stripes 🇮🇳, a detailed Ashoka Chakra 🔵, and a proud message at the bottom. Let’s say it loud — **"Mera Bharat Mahan – Jai Hind!"** 🙏
+It includes waving stripes 🇮🇳, a detailed Ashoka Chakra 🔵, and a proud message at the bottom.
 
 ## 🎨 Features
 
-- 🇮🇳 Waving effect using sine functions for stripes
+-   Waving effect using sine functions for stripes
 - 🔵 Realistic Ashoka Chakra with 24 spokes
 - 🏳️‍🌈 Turtle-rendered waving motion with smooth animation
 - 🗿 Flag pole and patriotic message
@@ -34,10 +34,10 @@ It includes waving stripes 🇮🇳, a detailed Ashoka Chakra 🔵, and a proud 
 - ⭐ Star this repo to show your love
 - 🔁 Fork and create your own version for other countries or designs !
 
-🧑‍💻 Author :--
+🧑‍💻 About Author :--
 
 Hi, I’m Ram.
 A passionate Python Developer and creative coder, inspired by technology and love for the country.
 Let’s code patriotism, one line at a time. 💻❤️
 
-## ✨ Mera Bharat Mahan – Jai Hind !
+## ✨ Mera Bharat Mahan – Jai Hind ! 🙏
