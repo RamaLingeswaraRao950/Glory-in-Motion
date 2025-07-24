@@ -36,7 +36,7 @@ It includes waving stripes 🇮🇳, a detailed Ashoka Chakra 🔵, and a proud 
 
 🧑‍💻 About Author :--
 
-Hi, I’m Ram.
+Hi, I am Ram.
 A passionate Python Developer and creative coder, inspired by technology and love for the country.
 Let’s code patriotism, one line at a time. 💻❤️
 
